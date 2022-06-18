@@ -9,3 +9,4 @@ IMFORMATION:
 4.Payment has allow in online way
 5.Order delivery in 48 hours 
 6.User to material in video calls
+7.Product will be demage it can be return to company
