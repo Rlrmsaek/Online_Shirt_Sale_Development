@@ -1,0 +1,10 @@
+TITLE: ONLINE SHIRT SALE DEVELOPMENT
+OWNER: M.EDO
+PUBLISED BY:RLRMSAEK
+
+IMFORMATION:
+1.Allow all kinds of material
+2.Allow different kinds of size 
+3.Website has been opened 24 hours
+4.Payment has allow in online way
+5.Order delivery in 48 hours 
