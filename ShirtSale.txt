@@ -8,3 +8,4 @@ IMFORMATION:
 3.Website has been opened 24 hours
 4.Payment has allow in online way
 5.Order delivery in 48 hours 
+6.User to material in video calls
